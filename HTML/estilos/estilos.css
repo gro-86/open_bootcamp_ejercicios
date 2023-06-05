@@ -2,3 +2,16 @@
     color:red;
     font-size: 2em;
 }
+
+.imagen{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
